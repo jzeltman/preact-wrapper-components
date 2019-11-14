@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Wrapper Preact components used for wrapping html",
   "author": "Josh Zeltman",
-  "license": "ISC",
+  "license": "MIT",
   "dependencies": {
     "preact": "^10.0.5"
   }
