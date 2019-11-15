@@ -3,7 +3,16 @@
   "version": "1.0.0",
   "description": "Wrapper Preact components used for wrapping html",
   "author": "Josh Zeltman",
-  "license": "MIT",
+  "license": "ISC",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jzeltman/preact-wrapper-components.git"
+  },
+  "bugs": {
+    "url": "https://github.com/jzeltman/preact-wrapper-components/issues"
+  },
+  "homepage": "https://github.com/jzeltman/preact-wrapper-components#readme",
   "dependencies": {
     "preact": "^10.0.5"
   }
