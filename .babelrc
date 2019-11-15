@@ -1,0 +1,11 @@
+{
+    "presets": [
+        ["@babel/preset-env",{
+            "useBuiltIns": "usage",
+			"debug":true
+		}]
+    ],
+    "plugins": [
+        ["@babel/plugin-transform-react-jsx", { "pragma":"h" }]
+    ]
+}
