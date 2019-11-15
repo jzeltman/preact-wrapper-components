@@ -1,6 +1,6 @@
 {
   "name": "preact-wrapper-components",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Wrapper Preact components used for wrapping html",
   "author": "Josh Zeltman",
   "license": "ISC",
